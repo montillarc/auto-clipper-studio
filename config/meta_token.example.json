@@ -1,0 +1,15 @@
+{
+  "access_token": "REEMPLAZA_CON_TU_USER_ACCESS_TOKEN_DE_META",
+  "business_id": "REEMPLAZA_CON_TU_META_BUSINESS_ID",
+  "graph_version": "v21.0",
+  "ig_accounts": {
+    "tu_cuenta_ig": "REEMPLAZA_CON_TU_IG_BUSINESS_ACCOUNT_ID"
+  },
+  "fb_pages": {
+    "tu_pagina_fb": {
+      "page_id": "REEMPLAZA_CON_TU_FACEBOOK_PAGE_ID",
+      "page_name": "Tu Pagina de Facebook",
+      "page_access_token": "REEMPLAZA_CON_TU_PAGE_ACCESS_TOKEN"
+    }
+  }
+}

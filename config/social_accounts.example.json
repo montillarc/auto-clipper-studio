@@ -1,0 +1,10 @@
+{
+  "default_youtube_channel": "@TuCanalDeYouTube",
+  "excluded_manual_only": [
+    "@tu_cuenta_principal_manual"
+  ],
+  "tiktok_browser_profiles": {
+    "tu_cuenta_gaming": "Profile 1",
+    "tu_cuenta_clips": "Default"
+  }
+}

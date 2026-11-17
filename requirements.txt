@@ -1,0 +1,15 @@
+watchdog
+pydantic
+python-dotenv
+faster-whisper
+ffmpeg-python
+imageio-ffmpeg
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
+opencv-python
+mediapipe
+pysubs2
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+pytz

@@ -1,0 +1,51 @@
+# Python environments & caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Frontend dependencies & compiled bundle
+frontend/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+frontend/coverage/
+
+# Environment variables
+.env
+.env.*
+
+# Runtime media folders
+inbox_videos/*
+!inbox_videos/.gitkeep
+output_shorts/*
+!output_shorts/.gitkeep
+processing/*
+!processing/.gitkeep
+published_archive/*
+!published_archive/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Local user state, databases & private API credentials
+config/*.db
+config/*.db-*
+config/token.json
+config/client_secret.json
+config/meta_token.json
+config/tiktok_client.json
+config/tiktok_tokens.json
+config/social_accounts.json
+config/social_hub_config.json
+config/tiktok_whatsapp_approval.json
+config/pipeline_state.json
+config/settings.json
+config/.wakeup_tray_show.signal
+config/projects/
+config/scene_frames/
+*.tmp
+*.log

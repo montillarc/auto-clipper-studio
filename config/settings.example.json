@@ -1,0 +1,10 @@
+{
+  "default_category": "general",
+  "max_shorts": 8,
+  "auto_upload_youtube": false,
+  "layout_mode": "auto",
+  "subtitle_preset": "hormozi_amarillo",
+  "subtitle_position": "bottom",
+  "cam_overlay_pos": "top_right",
+  "active_virality_guide": "auto"
+}
